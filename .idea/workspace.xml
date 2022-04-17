@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d634b163-d7d8-412c-94ef-d8e3bb38a0bd" name="Default Changelist" comment="" />
+    <list default="true" id="d634b163-d7d8-412c-94ef-d8e3bb38a0bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\idea\git\hello\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -20,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="27v0unQ7z8AjgBMYDvuXsuteG0G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +49,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,20 +73,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650185476477</updated>
+      <workItem from="1650185477732" duration="560000" />
+      <workItem from="1650186057880" duration="297000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1650185641993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650185641993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="79" key="#Project_Structure" timestamp="1650185500863">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="79" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1650185500863" />
-    <state x="549" y="162" key="FileChooserDialogImpl" timestamp="1650185588788">
+    <state x="383" y="14" key="CommitChangelistDialog2" timestamp="1650185640809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1650185588788" />
+    <state x="383" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1650185640809" />
+    <state x="549" y="162" key="FileChooserDialogImpl" timestamp="1650185891577">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1650185891577" />
+    <state x="643" y="316" width="273" height="201" key="Github.ShareDialog" timestamp="1650186473886">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="643" y="316" width="273" height="201" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1650186473886" />
+    <state x="272" y="63" key="SettingsEditor" timestamp="1650186355995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1650186355995" />
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2" timestamp="1650185904826">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="154" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1650185904826" />
   </component>
 </project>
